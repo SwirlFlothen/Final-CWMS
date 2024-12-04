@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'cleaning_kit',
     'compain_and_notification',
     'django_cleanup',
+
 ]
 
 MIDDLEWARE = [
